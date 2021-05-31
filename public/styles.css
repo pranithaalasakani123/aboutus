@@ -1,0 +1,32 @@
+.jumbotron {
+  background-color: #aa2ee6;
+  color:white;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.footer{
+  background-color: #907fa4;
+  color:white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+.space{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.info{
+  padding-top:40px;
+  padding-bottom:40px
+}
+@media (min-width:500px) {
+  .jumbotron {
+    background-color: #aa2ee6;
+    color:white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
